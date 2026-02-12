@@ -56,7 +56,7 @@ O projeto abrange:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+https://github.com/paulorsf29/Projeto_Bank_Marketing.git
 ```
 
 ### 2. Instale as dependências
